@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MyTwitter</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.springsource.sts.grails.core.nature</nature>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>acegi-0.5.2-grails-app-conf</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/acegi-0.5.2/grails-app/conf</location>
+		</link>
+		<link>
+			<name>acegi-0.5.2-grails-app-controllers</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/acegi-0.5.2/grails-app/controllers</location>
+		</link>
+		<link>
+			<name>acegi-0.5.2-grails-app-services</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/acegi-0.5.2/grails-app/services</location>
+		</link>
+		<link>
+			<name>acegi-0.5.2-grails-app-taglib</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/acegi-0.5.2/grails-app/taglib</location>
+		</link>
+		<link>
+			<name>acegi-0.5.2-src-groovy</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/acegi-0.5.2/src/groovy</location>
+		</link>
+		<link>
+			<name>acegi-0.5.2-src-java</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/acegi-0.5.2/src/java</location>
+		</link>
+		<link>
+			<name>feeds-1.5-grails-app-i18n</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/feeds-1.5/grails-app/i18n</location>
+		</link>
+		<link>
+			<name>feeds-1.5-grails-app-taglib</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/feeds-1.5/grails-app/taglib</location>
+		</link>
+		<link>
+			<name>feeds-1.5-src-groovy</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/feeds-1.5/src/groovy</location>
+		</link>
+		<link>
+			<name>jms-0.5-RC2-src-groovy</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/jms-0.5-RC2/src/groovy</location>
+		</link>
+		<link>
+			<name>jms-0.5-RC2-src-java</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/jms-0.5-RC2/src/java</location>
+		</link>
+		<link>
+			<name>searchable-0.5.5-grails-app-conf</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/searchable-0.5.5/grails-app/conf</location>
+		</link>
+		<link>
+			<name>searchable-0.5.5-grails-app-controllers</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/searchable-0.5.5/grails-app/controllers</location>
+		</link>
+		<link>
+			<name>searchable-0.5.5-grails-app-i18n</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/searchable-0.5.5/grails-app/i18n</location>
+		</link>
+		<link>
+			<name>searchable-0.5.5-grails-app-services</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/searchable-0.5.5/grails-app/services</location>
+		</link>
+		<link>
+			<name>searchable-0.5.5-grails-app-views</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/searchable-0.5.5/grails-app/views</location>
+		</link>
+		<link>
+			<name>searchable-0.5.5-src-groovy</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/searchable-0.5.5/src/groovy</location>
+		</link>
+		<link>
+			<name>searchable-0.5.5-src-java</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/searchable-0.5.5/src/java</location>
+		</link>
+		<link>
+			<name>tomcat-1.2-M3-src-groovy</name>
+			<type>2</type>
+			<location>C:/Documents and Settings/yfeng/.grails/1.2-M3/projects/MyTwitter/plugins/tomcat-1.2-M3/src/groovy</location>
+		</link>
+	</linkedResources>
+</projectDescription>
